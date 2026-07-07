@@ -4,7 +4,7 @@ Responsive landing page for AI training, featuring a contact form, a slider, and
 
 ## Link to the website
 
-[Visit the website](link)
+[Visit the website](https://olesya18.github.io/diplom-git/)
 
 ## Visual
 
